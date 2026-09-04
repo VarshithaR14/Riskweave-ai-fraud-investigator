@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+networkx
+plotly
+streamlit
+faker
+python-dotenv
+razorpay
+joblib
